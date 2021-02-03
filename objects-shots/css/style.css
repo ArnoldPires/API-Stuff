@@ -31,21 +31,28 @@ body {
 header {
   text-align: center;
 }
-.main, .instructions {
+.main, .instructions, .otherDrinks {
   display: flex;
   justify-content: center;
 }
 .img, .description {
   margin: 1rem;
+  width: 20%;
 }
 img {
-  width: 20rem
+  width: 24rem
 }
 p {
   font-weight: bold;
 }
+.instructions p {
+  width: 50rem;
+}
 span {
   font-weight: normal;
+}
+.recs {
+  width: 50rem;
 }
 /******************************************
 /* ADDITIONAL STYLES
