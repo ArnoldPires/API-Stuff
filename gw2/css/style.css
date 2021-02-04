@@ -57,3 +57,34 @@ span {
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
+.style {
+  font-weight: bold;
+  font-size: large;
+}
+#charOne, #charThirteen, #charFifteen {
+  color: #a78254;
+}
+#charTwo, #charTen {
+  color: #a5a320;
+}
+#charThree, #charSeven {
+  color: #71b1d7 ;
+}
+#charFour {
+  color: #000000;
+}
+#charFive {
+  color: #41cb63;
+}
+#charSix, #charTwelve {
+  color: #d16f53;
+}
+#charEight {
+  color: #9753a1;
+}
+#charNine, #charSixteen {
+  color: #e2864f;
+}
+#charEleven, #charFourteen {
+  color: #fb88d3
+}
